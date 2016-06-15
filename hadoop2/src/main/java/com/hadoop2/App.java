@@ -1,5 +1,6 @@
 package com.hadoop2;
 
+<<<<<<< HEAD
 import org.apache.avro.Schema;
 import org.apache.avro.generic.GenericData;
 import org.apache.avro.generic.GenericRecord;
@@ -32,5 +33,16 @@ public class App {
         record.put("right",new Utf8("R"));
 
 
+=======
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+>>>>>>> 94dd44817e71e50f14353aea8bfbf5831577d5e6
     }
 }
